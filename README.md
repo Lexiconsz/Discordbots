@@ -1,2 +1,2 @@
 # Discordbots
-Hier de paar discord bot scripts
+here are a few scripts
